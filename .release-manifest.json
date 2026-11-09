@@ -1,8 +1,12 @@
 {
   "target": "antigravity-remote",
   "repo": "gustawdaniel/antigravity-remote",
+  "monorepo_sha": "9caf44e79878d89ce7b9b3b1b3c2b94594c58a90",
+  "monorepo_tag": "v2026.11.1",
+  "monorepo_ref": "v2026.11.1",
+  "timestamp": "2026-11-09T17:01:45.756465+00:00",
   "files_count": 49,
-  "total_size_bytes": 217575,
+  "total_size_bytes": 217573,
   "files": [
     {
       "path": ".gitignore",
@@ -26,8 +30,8 @@
     },
     {
       "path": "SECURITY.md",
-      "size": 863,
-      "sha256": "518f69d89ff25f7cdcfbaed937df7ead83ce5970739b443977958d18321e589f"
+      "size": 861,
+      "sha256": "1f5d5b6fc6e469ef70ad958767e44284b8520ac8ad4e34c151b34e1557d756e1"
     },
     {
       "path": "go.mod",
