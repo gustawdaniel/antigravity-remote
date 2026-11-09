@@ -1,0 +1,14 @@
+[Unit]
+Description=Antigravity Remote Control Server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/.local/share/antigravity-remote
+ExecStart=%h/.local/bin/antigravity-remote -port 8765 -static %h/.local/share/antigravity-remote/frontend/build
+Restart=always
+RestartSec=3
+Environment=PORT=8765
+
+[Install]
+WantedBy=default.target

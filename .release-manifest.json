@@ -1,0 +1,253 @@
+{
+  "target": "antigravity-remote",
+  "repo": "gustawdaniel/antigravity-remote",
+  "files_count": 49,
+  "total_size_bytes": 217575,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 83,
+      "sha256": "07d2661ca1f764f32579b9a12f9f4f708da1fc9bcaf0c9ff9f9917b59a8e10a8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size": 1794,
+      "sha256": "e5bb671e2c220f3409dd82c30f49255eba3d1596142011e1adc5d23ec083d350"
+    },
+    {
+      "path": "LICENSE",
+      "size": 3077,
+      "sha256": "77e22acd975dbe5dc5c3b48d6bd84d0262971c139463e1f848203e67d8e86b1f"
+    },
+    {
+      "path": "README.md",
+      "size": 4425,
+      "sha256": "20f6a50bd4ba6931a69c88de25980e6cd04f7c963e022dc487315580806ebe2d"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 863,
+      "sha256": "518f69d89ff25f7cdcfbaed937df7ead83ce5970739b443977958d18321e589f"
+    },
+    {
+      "path": "go.mod",
+      "size": 118,
+      "sha256": "48f7c076a5ee84c44239ea682de0ad8d2f427c11e83f58707689ee5c73c06475"
+    },
+    {
+      "path": "go.sum",
+      "size": 175,
+      "sha256": "1737d5523b7264df09b253e86e29f96af295a7bd18e0aaa4373c6099317e065f"
+    },
+    {
+      "path": "cmd/server/main.go",
+      "size": 23542,
+      "sha256": "7c1b240f6b59f86008fe9271817fab42dd8a696ba5867623072483ebfe45469e"
+    },
+    {
+      "path": "frontend/.gitignore",
+      "size": 210,
+      "sha256": "d1aec8becdfa546cbb4ed193ffd576dd7f353c742cb9f361be4b2697ecefe992"
+    },
+    {
+      "path": "frontend/.npmrc",
+      "size": 19,
+      "sha256": "7151cf397def0c2cb0ab65643701d27d335a72c90f775675b5f826bc7005818a"
+    },
+    {
+      "path": "frontend/README.md",
+      "size": 956,
+      "sha256": "7ac353af82dfa48ea296df1d78ee7f75b9901526e6075c95e84a7d667523f418"
+    },
+    {
+      "path": "frontend/package.json",
+      "size": 877,
+      "sha256": "ef78fbc28d5890548f73e18d7340a0fd5633df716e3ca9866966d1e542d37f2d"
+    },
+    {
+      "path": "frontend/pnpm-lock.yaml",
+      "size": 27938,
+      "sha256": "21c4f0ecd8ec8d145c6e792701087cce9b5338fbf4b305b3a64cca41fc4eeaaa"
+    },
+    {
+      "path": "frontend/pnpm-workspace.yaml",
+      "size": 35,
+      "sha256": "27b336209bd8b917cefb2a3f8c97fb893829ce96cd2ec58ddc952a26080b0672"
+    },
+    {
+      "path": "frontend/tsconfig.json",
+      "size": 692,
+      "sha256": "7a19bf2d57ef51ed3d7ddb0ed6ac3c4aa89025ab1cc2b0271132477905763134"
+    },
+    {
+      "path": "frontend/vite.config.ts",
+      "size": 578,
+      "sha256": "4f3059b8af0b1f6728a3927acf13df27b770ad04f3a0467e902fd1e952474706"
+    },
+    {
+      "path": "frontend/static/favicon.svg",
+      "size": 1476,
+      "sha256": "f72b277a1d5e9e706fc705739330325577316b2af1b34de178e93e27a7a59e21"
+    },
+    {
+      "path": "frontend/static/icon.svg",
+      "size": 1476,
+      "sha256": "f72b277a1d5e9e706fc705739330325577316b2af1b34de178e93e27a7a59e21"
+    },
+    {
+      "path": "frontend/static/manifest.json",
+      "size": 434,
+      "sha256": "715a8d8de6be292061a8442fb56b94369cbc031ecff178de94fb3229115933c9"
+    },
+    {
+      "path": "frontend/static/robots.txt",
+      "size": 63,
+      "sha256": "b033243267bcbdab84cb01e940811d6d77a894d78f0470faaf0eb43f8e4efcc9"
+    },
+    {
+      "path": "frontend/static/sw.js",
+      "size": 582,
+      "sha256": "ade0aefcfd2e35beca8bc57fafbe3ec1484864ac2e4b5926165601d3ef025766"
+    },
+    {
+      "path": "frontend/src/app.d.ts",
+      "size": 274,
+      "sha256": "3d450fc2fc7b0f10b6a9493a682769aac34f8b612f0f5d1bc4845a7b0bfe9f0a"
+    },
+    {
+      "path": "frontend/src/app.html",
+      "size": 1117,
+      "sha256": "cacb745c427ef8514902e57c71ecf15c5de9faf6a2a6445c6a3fae47a73f2a79"
+    },
+    {
+      "path": "frontend/src/lib/audio.ts",
+      "size": 7142,
+      "sha256": "257b0a491408ff6b8ab364a8e98b07ca51ed3544dbacd32586b2b8747f9d325c"
+    },
+    {
+      "path": "frontend/src/lib/index.ts",
+      "size": 75,
+      "sha256": "4beec0ade3bea5be651939b305bccf69d48506c74eda0a1a50a0dd6c79c4e91a"
+    },
+    {
+      "path": "frontend/src/lib/types.ts",
+      "size": 1451,
+      "sha256": "83fbb49c6b1b3642fbf579760233648ac3fe007d3eb139c842ac6607aba2cdae"
+    },
+    {
+      "path": "frontend/src/lib/components/ApprovalCard.svelte",
+      "size": 14786,
+      "sha256": "980211cd13ac91f51b9e4f3a44658047870a589069c81dbf90dd573c799780be"
+    },
+    {
+      "path": "frontend/src/lib/components/FeedbackModal.svelte",
+      "size": 6403,
+      "sha256": "191886396b739d1e94b4b2996e246abedf02f6562f710e878754d82a9458fc84"
+    },
+    {
+      "path": "frontend/src/lib/components/Icons.svelte",
+      "size": 10602,
+      "sha256": "45c427ebf59c2de8eafaf8f4f17e17eedfe37826b35013355b60351788a86da9"
+    },
+    {
+      "path": "frontend/src/lib/components/LiveFeed.svelte",
+      "size": 26509,
+      "sha256": "a7e248bc83f8bc688c692ff6402d9156c1cc5d8566bdd592637123ae117e8f3d"
+    },
+    {
+      "path": "frontend/src/lib/components/Navbar.svelte",
+      "size": 5073,
+      "sha256": "6c714e47418e8faf5fa5d72a4b7744f5bf17597b2cdb4c27f9eb48bf3709ae5f"
+    },
+    {
+      "path": "frontend/src/lib/components/SessionsList.svelte",
+      "size": 4640,
+      "sha256": "2c162b4438344e84c55b51bc29d3dc64a151d5bfc6364ce11782d06293ca71f8"
+    },
+    {
+      "path": "frontend/src/lib/components/WorkspaceSelector.svelte",
+      "size": 3771,
+      "sha256": "e3240b1278810c58851fb1537ebf74b2f3844ecfa941e525b5ac4e1171db3dd8"
+    },
+    {
+      "path": "frontend/src/lib/assets/favicon.svg",
+      "size": 1476,
+      "sha256": "f72b277a1d5e9e706fc705739330325577316b2af1b34de178e93e27a7a59e21"
+    },
+    {
+      "path": "frontend/src/routes/+layout.svelte",
+      "size": 1633,
+      "sha256": "1a23457dfdcd41ba450578c68133e1fa3ad8b6bd027ef71523f84712b620bf45"
+    },
+    {
+      "path": "frontend/src/routes/+page.svelte",
+      "size": 13954,
+      "sha256": "3f7741639d51bab7befcabad4a3a896df54770405aa5c553473a25ebc102217b"
+    },
+    {
+      "path": "systemd/antigravity-remote.service",
+      "size": 346,
+      "sha256": "56cf16796ea12dd845ea12565fbaa7991fbce2713600420d547aa0292fc2290c"
+    },
+    {
+      "path": "scripts/find_focus.py",
+      "size": 344,
+      "sha256": "2d8dd3b6dbf19ce1776658ebc3cf2b471bfdeaed49da211b3b392a79d8d9989d"
+    },
+    {
+      "path": "scripts/install-hooks.sh",
+      "size": 1182,
+      "sha256": "04939bbe2560e3658b515ba6e42c8ff3be7797ff98393e936157cf7347a9ffc4"
+    },
+    {
+      "path": "scripts/install-service.sh",
+      "size": 745,
+      "sha256": "3adb9d68d54e2cf8ac4185e6dccb0d9aaeaddd1c7653b1b7783d0be5a1b082d2"
+    },
+    {
+      "path": "scripts/start.sh",
+      "size": 203,
+      "sha256": "692f8901c656cf8ebd2b1d88673ba07de8932145776adfd214b67099e8078972"
+    },
+    {
+      "path": "scripts/uninstall-hooks.sh",
+      "size": 345,
+      "sha256": "b9b2f8cda4e389c5f08366150db61d7cd2f646dcf53ff7d06fe34437235fab67"
+    },
+    {
+      "path": "hook/agy-remote-hook.sh",
+      "size": 764,
+      "sha256": "ea15df778a8902b0b8760b155f7e295b2ce4af602af543c1ce72b7c543323115"
+    },
+    {
+      "path": "pkg/transcript/tailer.go",
+      "size": 6322,
+      "sha256": "9f7c8cd9773370841040e624c5257a4d67fc398613f377c728a9195373919b04"
+    },
+    {
+      "path": "pkg/models/types.go",
+      "size": 4021,
+      "sha256": "aeb979bc595d32c1441ee1d48162e52751680dc7a41d1dc63b49c95d0f4ecace"
+    },
+    {
+      "path": "pkg/approvals/manager.go",
+      "size": 14501,
+      "sha256": "16d02854d0f6c4c6248b6460c02839bd3eb54b6cfac4d990a669cd5e14f60e25"
+    },
+    {
+      "path": "pkg/antigravity/client.go",
+      "size": 17776,
+      "sha256": "ee30185092ffc43d3124bf675c50dc413ecd7cfa3d99b0afe450ae47342a10fa"
+    },
+    {
+      "path": "pkg/hub/hub.go",
+      "size": 2594,
+      "sha256": "31a6a6ca48e80f284d9c828c88a0913ea8208e4cda3ee7b9134ff226728faaae"
+    },
+    {
+      "path": "pkg/hub/json.go",
+      "size": 113,
+      "sha256": "cbd9b88182efcc2bcb851096c23cb84b53021872238697fd637f30d3fbeb0dee"
+    }
+  ]
+}

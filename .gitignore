@@ -1,0 +1,6 @@
+bin/
+antigravity-remote
+certs/
+node_modules/
+frontend/build/
+frontend/.svelte-kit/
